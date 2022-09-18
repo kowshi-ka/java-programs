@@ -20,3 +20,13 @@ public class Main
 	    System.out.println("Palindrome found "+s);
 	}
 }
+/*
+sample input 1
+hai
+bai
+.
+.
+.
+mam
+sample output -> Palindrome found mam
+*/
