@@ -25,3 +25,17 @@ public class Main
 	    }
 	}
 }
+/*
+sample input 1
+	24 
+	hi 
+	hello
+	-1 
+sample output -> 3
+
+sample input 2
+	hai hello 24
+	-1 dad addakjda
+	-1
+sample output -> 2
+*/
